@@ -4,7 +4,7 @@
 
 body{
     margin: 0;
-    background-image:url(/qbkls.png);
+    background-image:url(../qbkls.png);
 
 }
 .w3-container{
@@ -47,6 +47,11 @@ h2{
     border-bottom: 1px solid gray;
     width: 97%;
     
+}
+
+.portofolio-h2{
+    width: 80%;
+    margin: 30px auto;
 }
 nav{
     float: right;
