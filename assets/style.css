@@ -177,3 +177,21 @@ form{
     color: #777777;
 }
 
+@media only screen and (min-width: 640px){
+    header{
+        background-color: lightsalmon;
+    }
+}
+
+@media only screen and (min-width:768px){
+    header{
+        background-color: yellow;
+    }
+}
+
+@media only screen and (min-width: 980px){
+    header{
+        background-color:limegreen;
+    }
+}
+
